@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(60deg, blue, pink);
+    color:white;
+}
+.heading {
+    width: 80%;
+    font-size: 42px;
+}
+#camera {
+    border: 5px dashed blue;
+    width: 400px;
+    height: 350px;
+}
+.ObjectName, output_object, output_accuracy {
+    color: black;
+    font-size: 30px;
+}
